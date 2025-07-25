@@ -1,0 +1,21 @@
+# .gitignore for Visual Studio and C# projects
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Others
+*.log
+*.vs/
